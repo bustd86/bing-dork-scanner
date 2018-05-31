@@ -6,6 +6,7 @@
         Bustd86 Bing Dork Scanner
 
 ----------------------------------------
+@crlf
 Usage
 BDScanner.exe "dork" pages
 BDScanner.exe instreamset:url:artist.php?id= 5
