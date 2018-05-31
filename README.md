@@ -1,10 +1,8 @@
 # bing-dork-scanner
 
-   Usage
-:
+   Usage:
 	BDScanner.exe "dork" pages
-	
-BDScanner.exe instreamset:url:artist.php?id= 5     
+	BDScanner.exe instreamset:url:artist.php?id= 5     
 ----------------------------------------
 
         Bustd86 Bing Dork Scanner
