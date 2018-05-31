@@ -1,7 +1,7 @@
 # bing-dork-scanner
 
-Usage:  BDScanner.exe "dork" pages
-        BDScanner.exe instreamset:url:artist.php?id= 5
+Usage:  BDScanner.exe "dork" pages\n
+        BDScanner.exe instreamset:url:artist.php?id= 5\n
         
  ----------------------------------------
 
