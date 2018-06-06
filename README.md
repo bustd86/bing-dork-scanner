@@ -18,12 +18,12 @@ BDScan.exe <DORK> <Pages to crawl>
 ```
 **For example:**
 ```
-BDScan.exe instreamset:url:details.php?nr= 15
+C:\>BDScan.exe instreamset:url:details.php?nr= 15
 ```
 
 ## Example Output
 ```
-C:\Users\Bustd\Desktop\bing dork scanner>BDScan.exe instreamset:url:user.php?uid= 5
+C:\>BDScan.exe instreamset:url:user.php?uid= 5
 ----------------------------------------
 
         Bing Dork Scanner by Bustd86
@@ -76,5 +76,5 @@ C:\Users\Bustd\Desktop\bing dork scanner>BDScan.exe instreamset:url:user.php?uid
 
 ----------------------------------------
 
-Ergebnise gespeichert nach: C:\Users\Bustd\Desktop\bing dork scanner\dorks_found.txt
+Ergebnise gespeichert nach: C:\bing dork scanner\dorks_found.txt
 ```
