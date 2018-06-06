@@ -59,20 +59,20 @@ C:\Users\Bustd\Desktop\bing dork scanner>BDScan.exe instreamset:url:user.php?uid
 
 -----------------Results----------------
 
-[1]     http://www.luke54.org/user.php?uid=277
-[2]     http://music.weibo.com/snake/snk_user.php?uid=1335693500
-[3]     http://www.forgotten.pl/user.php?uid=albinaadamska78
-[!]     Possible SQLi:  http://www.forgotten.pl/user.php?uid=albinaadamska78
-[4]     http://ota-fair.jp/k22/syutten/user.php?uid=945
-[5]     http://ota-fair.jp/k22/syutten/user.php?uid=891
-[6]     http://www.allegro.pl/show_user.php?uid=72904
-[7]     http://www.luke54.org/user.php?uid=7857
-[8]     http://big5.51job.com/gate/big5/bbs.51job.com/user.php?uid=1167774
-[9]     http://www.game24.co.kr/user.php?uid=5118
-[10]    http://www.forgotten.pl/user.php?uid=ludmitawalczak8
-[!]     Possible SQLi:  http://www.forgotten.pl/user.php?uid=ludmitawalczak8
-[11]    http://www.ls1howto.com/transferuser.php?uid=tr
-[!]     Possible SQLi:  http://www.ls1howto.com/transferuser.php?uid=tr
+[1]     http://www.censored.org/user.php?uid=277
+[2]     http://music.censored.com/snake/snk_user.php?uid=1335693500
+[3]     http://www.censored.pl/user.php?uid=albinaadamska78
+[!]     Possible SQLi:  http://www.censored.pl/user.php?uid=albinaadamska78
+[4]     http://censored.jp/k22/syutten/user.php?uid=945
+[5]     http://censore.jp/k22/syutten/user.php?uid=891
+[6]     http://www.censored..pl/show_user.php?uid=72904
+[7]     http://www.censored.org/user.php?uid=7857
+[8]     http://big5.censored.com/gate/big5/bbs.51job.com/user.php?uid=1167774
+[9]     http://www.censored.co.kr/user.php?uid=5118
+[10]    http://www.censored.pl/user.php?uid=ludmitawalczak8
+[!]     Possible SQLi:  http://www.censored.pl/user.php?uid=ludmitawalczak8
+[11]    http://www.censored.com/transferuser.php?uid=tr
+[!]     Possible SQLi:  http://www.censored.com/transferuser.php?uid=tr
 
 ----------------------------------------
 
